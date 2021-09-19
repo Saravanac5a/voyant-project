@@ -3,7 +3,7 @@
 Course: Introduction to the Digital Humanities<br/>
 Semester: Monsoon 2021<br/>
 Professor: Johannes Burgers<br/>
-Group: Aninthitha Nath, Sara Singh, Saravana Chilamakuri (Group 1)<br/>
+Group: <a href="https://github.com/aninthithanath">Aninthitha Nath</a>, <a href="https://github.com/sara17singh">Sara Singh</a>, Saravana Chilamakuri (Group 1)<br/>
 Project: Data Visualization with Voyant (Project 1)<br/>
 Date: 19/09/2021
 
