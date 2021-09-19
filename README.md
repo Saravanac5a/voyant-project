@@ -102,7 +102,7 @@ The word cluster we used for friendship was <em>friend*, chum*</em>, and <em>par
 <p align="center"><img src="images/dh1-img9.png" alt="img9"/></p>
 <p align="center"><em>Graph 9</em></p>
 
-In this, bravery-related terms were mentioned a total of 752 times in the corpus, with the frequency being 0.0001716 for <em>Adventures of Huckleberry Finn</em> and 0.0006100 for <em>Adventures of Tom Sawyer</em>. It is clear that <em>Tom Sawyer</em. is much more representative of bravery compared to <em>Huckleberry Finn</em>.
+In this, bravery-related terms were mentioned a total of 752 times in the corpus, with the frequency being 0.0001716 for <em>Adventures of Huckleberry Finn</em> and 0.0006100 for <em>Adventures of Tom Sawyer</em>. It is clear that <em>Tom Sawyer</em>. is much more representative of bravery compared to <em>Huckleberry Finn</em>.
 
 <p align="center"><img src="images/dh1-img10.png" alt="img10"/></p>
 <p align="center"><em>Graph 10</em></p>
