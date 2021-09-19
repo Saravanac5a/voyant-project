@@ -126,12 +126,14 @@ In Kipling, we immediately noticed the repetition of the term “man” in multi
 ## Collocates
 
 Click <a href="https://docs.google.com/spreadsheets/d/1ZKtiUBoon_GZDlcDJc1lB7sXiYyNJHMtv-TsAgz3Gj4/edit?usp=sharing">here</a> for Mark Twain data
+
 Table 3 showcases the highest collocates for each respective theme. As was the trend with correlations, we can observe some names that have snuck their way into the collocation list - with Dixon, Elfonzo, and Tom. Om in this scenario is not indicative as <em>Adventures of Tom Sawyer</em> is the name of the book and despite removing all the metadata from the Project Gutenberg version, the name if the book precedes chapter titles on certain pages and thus “Tom” is the highest occurring collocate corresponding to <em>adventur*</em>
 
 <p align="center"><img src="images/dh1-img9.png" alt="img9"/></p>
 <p align="center"><em>Table 3</em></p>
 
-Click <a src="https://docs.google.com/spreadsheets/d/1_L1KEI9Kq9MF9FWs7Bqh25Bt3ldAN_jVPYqu4i_OkcM/edit?usp=sharing">here</a> for Rudyard Kipling data.
+Click <a href="https://docs.google.com/spreadsheets/d/1_L1KEI9Kq9MF9FWs7Bqh25Bt3ldAN_jVPYqu4i_OkcM/edit?usp=sharing">here</a> for Rudyard Kipling data
+
 Table 4 here shows the collocates with the highest count for the themes of courage and duty observed throughout Kipling. Unlike the analysis on Twain, this tied in neatly with the correlations analysis as the word “man” featured as a fairly high collocate in a number of the words chosen as synonyms. His is showcased in table 5 and supplements the correlations analysis nicely, in a way that we weren’t able to conclusively do with Twain’s works.
 
 <p align="center"><img src="images/dh1-img10.png" alt="img10"/></p>
