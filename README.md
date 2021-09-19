@@ -7,7 +7,7 @@ Group: <a href="https://github.com/aninthithanath">Aninthitha Nath</a>, <a href=
 Project: Data Visualization with Voyant (Project 1)<br/>
 Date: 19/09/2021
 
-## <div align="center">Canonicity in late 19th century literature: A study of Mark Twain and Rudyard Kipling</div>
+## <div align="center">Canonicity in Late 19th Century Literature: A Study of Mark Twain and Rudyard Kipling</div>
 
 ## Introduction
 Canonicity in modern English literature determines one’s reading experience to a large extent. Box sets composed of classics, recommendations of famous books by 19th century authors, lists that consist of “books you must read before you die” are all some not so subtle examples of this property of a canon permeating into our everyday lives.
