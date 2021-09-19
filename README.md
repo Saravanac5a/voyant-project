@@ -75,20 +75,18 @@ Fear-related terms have been mentioned a total of 577 times in the Twain corpus.
 
 ### Can One Represent the Whole?
 
-In this section, we tried to look at the common themes specific to the corpora of Kipling and Twain and check for how well-represented these themes are in their canonical works.
-
-For Kipling, we found that people largely find themes of courage and duty feature most commonly in his work, and for Twain, the common themes are bravery and friendship.
+In this section, we tried to look at the common themes specific to the corpora of Kipling and Twain and check for how well-represented these themes are in their canonical works. For Kipling, we found that people largely find themes of courage and duty feature most commonly in his work, and for Twain, the common themes are bravery and friendship.
 
 ### Rudyard Kipling
 
-Once again, we created word clusters for the same, with the cluster for courage consisting of <em>courag*, dare/dared, brave*, fear*</em>, and <em>hero*</em>
+Once again, we created word clusters for the same, with the cluster for courage consisting of <em>courag*, dare/dared, brave*, fear*</em>, and <em>hero*</em>.
 The cluster for duty was <em>duty*/duti*, burden*, job*, work*</em>, and <em>ought*</em>.
-<p align="center"><img src="images/dh1-img7.png" alt="img7"/></p>
+<p align="center"><img src="images/dh1-graph7.jpg" alt="img7"/></p>
 <p align="center"><em>Graph 7</em></p>
 
 In this frequency graph, we find that courage-related terms have been mentioned a total of 910 times in the corpus, and the frequency of these terms is 0.0007151 for <em>The Jungle Book</em> and 0.0004744 for <em>Kim</em>. We find that the theme of courage is well-represented in both texts, but <em>The Jungle Book</em> relies on this theme a lot more than <em>Kim</em>.
 
-<p align="center"><img src="images/dh1-img8.png" alt="img8"/></p>
+<p align="center"><img src="images/dh1-graph8.jpg" alt="img8"/></p>
 <p align="center"><em>Graph 8</em></p>
 
 As for the theme of duty, the terms associated with it have been mentioned a total of 1969 times in the corpus. The frequency is 0.0005605 for <em>The Jungle Book</em> and 0.0006418 for <em>Kim</em>. It is interesting to note that both texts are among the least representative of the theme of duty.
@@ -99,12 +97,12 @@ For Twain’s corpus, we looked into the themes of bravery and friendship.
 The word cluster for bravery was <em>brave*, adventur*, confident/confidently, courag*</em>, and <em>fear*</em>. 
 The word cluster we used for friendship was <em>friend*, chum*</em>, and <em>partner*</em>.
 
-<p align="center"><img src="images/dh1-img9.png" alt="img9"/></p>
+<p align="center"><img src="images/dh1-graph9.jpg" alt="img9"/></p>
 <p align="center"><em>Graph 9</em></p>
 
 In this, bravery-related terms were mentioned a total of 752 times in the corpus, with the frequency being 0.0001716 for <em>Adventures of Huckleberry Finn</em> and 0.0006100 for <em>Adventures of Tom Sawyer</em>. It is clear that <em>Tom Sawyer</em>. is much more representative of bravery compared to <em>Huckleberry Finn</em>.
 
-<p align="center"><img src="images/dh1-img10.png" alt="img10"/></p>
+<p align="center"><img src="images/dh1-graph10.jpg" alt="img10"/></p>
 <p align="center"><em>Graph 10</em></p>
 
 In this corpus, friendship-related terms are mentioned a total of 1099 times. The frequency of these terms is 0.0003518 in <em>Adventures of Huckleberry Finn</em> and 0.0003846 in <em>Adventures of Tom Sawyer</em>, with both texts being almost equally representative of the theme of friendship.
@@ -112,6 +110,7 @@ In this corpus, friendship-related terms are mentioned a total of 1099 times. Th
 ## Correlations
 
 Click <a href='https://docs.google.com/spreadsheets/d/18OWsRcEm9uoc3qWyrfeShEEoaAP8aODEngmQEbfadI0/edit?usp=sharing'>here</a> for the data
+
 Coverage was set at a minimum of 50% and correlations were seen for each of the two themes for each author. The synonyms were inputted into Voyant and the following spreadsheet full of correlations and significant values was extracted. In this section, we’d like to focus on the interesting correlations that were observed.
 
 For the theme friendship in Twain, the word “Tom” had a correlation of -0.01952 and a significant value of 0.706349. This of course, comes as no surprise as <em>The Adventures of Tom Sawyer</em> is one of the books considered canonical by us for this project. Furthermore, the second canonical book <em>Adventures of Huckleberry Finn</em> was said to be an indirect sequel to the <em>Tom Sawyer</em> books, and both employ the use of the same narrator. Thus, the presence of <em>Tom</em> correlating with the theme of friendship comes as no surprise as the friendship between these two young boys is a central thread across both of Twain’s canonical works.  Table 1 displays the correlation the name “Tom” had with the words associated with Twain’s overarching themes
