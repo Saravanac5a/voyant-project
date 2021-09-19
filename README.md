@@ -9,3 +9,5 @@ Project: Data Visualization with Voyant (Project 1)<br/>
 ## <div align="center">Canonicity in late 19th century literature: A study of Mark Twain and Rudyard Kipling</div>
 
 ## Introduction
+
+<p align="center"><img src="images/dh1-img1.jpeg" alt="img1"/></p>
